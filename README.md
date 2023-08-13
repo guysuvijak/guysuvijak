@@ -2,7 +2,7 @@
 <img src=https://github.com/guysuvijak/guysuvijak/assets/114898370/78ebe667-7bf2-40e4-8e4d-a646402427fb">
 </p>
 
-Hi 👋 My name is [Suvijak Nopparatcharoensuk]()
+Hi 👋 My name is [Suvijak Nopparatcharoensuk](https://github.com/guysuvijak)
 ===========================================
 
 I am currently a full-stack mobile developer (React Native) at <a href="https://www.tgsg.co.th/en/" target="_blank" rel="noreferrer">Thai German Specialty Glass Co., Ltd.</a></br>
@@ -12,6 +12,17 @@ I have 1 year of experience working as a Programmer, 4 years as a Graphic Design
 * ✉️  You can contact me at <a href="mailto:guy.suvijak@hotmail.com" target="_blank" rel="noreferrer">guy.suvijak@hotmail.com</a> or <a href="https://fb.com/guy.suvijak" target="_blank" rel="noreferrer">Facebook (Suvijak Nopparatcharoensuk)</a>
 * 🚀  I'm currently solo working on <a href="http://play.google.com/store/apps/details?id=com.tgsgmobileapp&hl=en_US" target="_blank" rel="noreferrer">TGSG (Internal App)</a>
 * 🧠  I'm learning NextJS + Tailwind CSS
+* ☕️  I turn **Coffee** into **Code**
+
+<p align="center"><code>Hello World!
+ ╭----------------------------------------------------------------------╮ </br>
+ ├---██████---██----██---██----██---██---███████----██████----██----██--┤ </br>
+ ├--██--------██----██---██----██---██--------██---██----██---██--██----┤ </br>
+ ├--███████---██----██---██----██---██--------██---████████---████------┤ </br>
+ ├-------██---██----██----██--██----██---██---██---██----██---██--██----┤ </br>
+ ├--██████-----██████-------██------██----█████----██----██---██----██--┤ </br>
+ ╰----------------------------------------------------------------------╯ </br>
+</code></p>
 
 ## :link: Social Media & Contact
 > <p>Facebook is my primary communication channel.</p>
@@ -173,7 +184,7 @@ const styles = StyleSheet.create({
     apiItem: {
         padding: 10,
         borderBottomWidth: 1,
-        borderBottomColor: '#ccc'
+        borderBottomColor: '#CCCCCC'
     },
     apiTitle: {
         fontWeight: 'bold',
