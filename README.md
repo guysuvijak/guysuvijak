@@ -5,11 +5,11 @@
 Hi 👋 My name is [Suvijak Nopparatcharoensuk](https://github.com/guysuvijak)
 ===========================================
 
-I am currently a full-stack mobile developer (React Native) at <a href="https://www.tgsg.co.th/en/" target="_blank" rel="noreferrer">Thai German Specialty Glass Co., Ltd.</a></br>
+I am currently a full-stack mobile developer (React Native) at <a href="https://www.tgsg.co.th/en/" target="_blank" rel="noopener noreferrer">Thai German Specialty Glass Co., Ltd.</a></br>
 I have 1 year of experience working as a Programmer, 4 years as a Graphic Designer, and another 1 year in various other positions.</br>
 
 * 🌍  I'm based in Sathon, Bangkok, Thailand
-* ✉️  You can contact me at <a href="mailto:guy.suvijak@hotmail.com" target="_blank" rel="noreferrer">guy.suvijak@hotmail.com</a> or <a href="https://fb.com/guy.suvijak" target="_blank" rel="noreferrer">Facebook (Suvijak Nopparatcharoensuk)</a>
+* ✉️  You can contact me at <a href="mailto:guy.suvijak@hotmail.com" target="_blank" rel="noopener noreferrer">guy.suvijak@hotmail.com</a> or <a href="https://fb.com/guy.suvijak" target="_blank" rel="noopener noreferrer">Facebook (Suvijak Nopparatcharoensuk)</a>
 * 🚀  I'm currently solo working on <a href="http://play.google.com/store/apps/details?id=com.tgsgmobileapp&hl=en_US" target="_blank" rel="noreferrer">TGSG (Internal App)</a>
 * 🧠  I'm learning NextJS + Tailwind CSS
 * ☕️  I turn **Coffee** into **Code**
