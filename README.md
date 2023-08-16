@@ -10,8 +10,10 @@ I have 1 year of experience working as a Programmer, 4 years as a Graphic Design
 
 * 🌍  I'm based in Sathon, Bangkok, Thailand
 * ✉️  You can contact me at <a href="mailto:guy.suvijak@hotmail.com" target="_blank" rel="noreferrer">guy.suvijak@hotmail.com</a> or <a href="https://fb.com/guy.suvijak" target="_blank" rel="noreferrer">Facebook (Suvijak Nopparatcharoensuk)</a>
-* 🚀  I'm currently solo working on <a href="http://play.google.com/store/apps/details?id=com.tgsgmobileapp&hl=en_US" target="_blank" rel="noreferrer">TGSG (Internal App)</a>
-* 🧠  I'm learning NextJS + Tailwind CSS
+* 🚀  I'm currently solo working on <a href="http://play.google.com/store/apps/details?id=com.tgsgmobileapp&hl=en_US" target="_blank" rel="noreferrer">TGSG (Internal Application)</a>
+* 🧠  I'm learning Frontend (NextJS + Tailwind CSS)
+* 🧠  I'm learning Backend (JWT)
+* 🧠  I'm learning Generative AI (Stable Diffusion A1111 + TorToiSe TTS)
 * ☕️  I turn **Coffee** into **Code**
 
 ## :muscle: Hard Skills
@@ -49,140 +51,16 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 
 | Type | Level 1 | Level 2 | Level 3 | Level 4 |
 |------|---------|---------|---------|---------|
-| <p align="center">Words</p> | <p align="center">10words : 154 WPM</br>(correct 100%)</p> | <p align="center">25words : 111 WPM</br>(correct 97%)</p> | <p align="center">50words : 95 WPM</br>(correct 97%)</p> | <p align="center">100words : 89 WPM</br>(correct 97%)</p> |
-| <p align="center">Time</p> | <p align="center">15seconds : 117 WPM</br>(correct 100%)</p> | <p align="center">30seconds : 88 WPM</br>(correct 97%)</p> | <p align="center">60seconds : 91 WPM</br>(correct 98%)</p> | <p align="center">120seconds : 77 WPM</br>(correct 96%)</p> |
+| <p align="center">Words</p> | <p align="center">10words : **154** WPM</p> | <p align="center">25words : **111** WPM</p> | <p align="center">50words : **95** WPM</p> | <p align="center">100words : **89** WPM</p> |
+| <p align="center">Time</p> | <p align="center">15seconds : **117** WPM</p> | <p align="center">30seconds : **88** WPM</p> | <p align="center">60seconds : **91** WPM</p> | <p align="center">120seconds : **77** WPM</p> |
+
+## :blue_book: Coding Styles & Best Practice
+- :globe_with_meridians: [React Native (TypeScript)](./codeingStyles/ReactNative/README.md)
 
 ## :link: Social Media & Contact Me
 > <p>Facebook is my primary communication channel.</p>
 <p align="left">
 <a href="https://fb.com/guy.suvijak" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" title="Facebook : guy.suvijak" alt="facebookaccount" height="40" width="40" /></a> <a href="https://www.youtube.com/c/meteorviix" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/640px-YouTube_full-color_icon_%282017%29.svg.png" title="Discord : meteorviix" alt="discordaccount" height="30" width="40" /></a> <a href="https://discord.com/users/220231582722555924" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="Discord : meteorviix" height="40" width="40" /></a> <a href="guy.suvijak@hotmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018–present%29.svg" alt="Email : guy.suvijak@hotmail.com" height="40" width="40" /></a>
 </p>
-
-## :globe_with_meridians: React Native Coding Style (TypeScript)
-◈ **Separate file** = <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_reactts.svg" alt="tsxicon" width="15" height="15"/> Screen file (index.tsx) / <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_typescriptdef.svg" alt="dtsicon" width="15" height="15"/> Type file (types.d.ts) / <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_js.svg" alt="javascripticon" width="15" height="15"/> StyleSheet file (styles.js)</br>
-◈ **camelCase** = variable name, function name, interface member, file name</br>
-◈ **PascalCase** = class name, screen name, interface name, type name, sub folder name (last folder)</br>
-◈ **kebab-case** = assets file name</br>
-┕ ex: example-picture.png, loading-circle-animation.json</br>
-◈ **lowercase** = folder name (main folder)</br>
-◈ **Indent Using Spaces** = 4</br>
-
-◈ Declare variable **"const"** only</br>
-◈ Declare variable **"let"** when use with **"for loop" & "switch case"**</br>
-◈ Use **'Single Quote'** only;</br>
-◈ Always set the name of the Interface variable after the word **"Props"**.</br>
-┕ ex: TestProps</br>
-◈ Always set the name of the Extend Interface variable start the word **"Base"**.</br>
-┕ ex: BaseTest // interface TestProps extends BaseTest</br>
-◈ **Pure StyleSheet** only in React Native (I'm a pure style expert, but not as good at CSS as Tailwind CSS.)
-
-<code>**Folder Structure (React Native)**</code></br>
-└ **screen**</br>
---└<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/folder_type_component_opened.svg" alt="foldericon" width="15" height="15"/> **HelloScreen**</br>
-----├<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_reactts.svg" alt="tsxicon" width="15" height="15"/> index.tsx</br>
-----├<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_typescriptdef.svg" alt="dtsicon" width="15" height="15"/> types.d.ts</br>
-----└<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_js.svg" alt="javascripticon" width="15" height="15"/> helloStyles.js
-
-```typescript
-//index.tsx
-import React, { useState, useEffect } from 'react';
-import { View, Text, Alert, FlatList } from 'react-native';
-import { ApiEntryProps } from './types';
-import axios from 'axios';
-import styles from './helloStyles';
-
-const HelloScreen = () => {
-    const [ data, setData ] = useState<ApiEntryProps[]>([]);
-    const [ isLoading, setIsLoading ] = useState(true);
-
-    useEffect(() => {
-        getDataAPI();
-    }, []);
-
-    const getDataAPI = async () => {
-        try {
-            const response = await axios.get('https://api.publicapis.org/entries');
-            const apiEntries: ApiEntryProps[] = response.data.entries;
-            if (apiEntries.length > 0) {
-                setData(apiEntries);
-            }
-        } catch(err) {
-            console.log(err);
-            Alert.alert('Error', err);
-        } finally {
-            setIsLoading(false);
-        }
-    };
-
-    const renderApiEntry = ({ item }: { item: ApiEntry }) => (
-        <View style={styles.apiItem}>
-            <Text style={styles.apiTitle}>{item.API}</Text>
-            <Text>{item.Description}</Text>
-        </View>
-    );
-
-    return (
-        <View style={styles.container}>
-            {isLoading ? (
-                <View style={styles.loadingContainer}>
-                    <Text style={styles.loadingText}>{`Waiting Data...`}</Text>
-                </View>
-            ) : (
-                <FlatList
-                    data={data}
-                    keyExtractor={(item: ApiEntryProps) => item.API}
-                    renderItem={renderApiEntry}
-                />
-            )}
-        </View>
-    );
-};
-
-export default HelloScreen;
-```
-
-```typescript
-//types.d.ts
-export interface ApiEntryProps {
-    API: string;
-    Description: string;
-    Auth: string;
-    HTTPS: boolean;
-    Cors: string;
-    Link: string;
-    Category: string;
-}
-```
-
-```javascript
-//helloStyles.js
-import { StyleSheet } from 'react-native';
-
-const styles = StyleSheet.create({
-    container: {
-        flex: 1
-    },
-    loadingContainer: {
-        flex: 1,
-        justifyContent: 'center',
-        alignItems: 'center'
-    },
-    loadingText: {
-        fontSize: 20,
-        color: '#000000'
-    },
-    apiItem: {
-        padding: 10,
-        borderBottomWidth: 1,
-        borderBottomColor: '#CCCCCC'
-    },
-    apiTitle: {
-        fontWeight: 'bold',
-        fontSize: 16
-    }
-});
-
-export default styles;
-```
-
+</br>
 <p align="center"><img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" alt="snakegrid" /></p>
