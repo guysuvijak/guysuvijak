@@ -23,7 +23,7 @@ This app is for internal use within the TGSG organization and includes the follo
  - App maintenance and update notification system
 <p>(The mentioned system is only a part of the entire system.)</p>
 
-## :green_book: React Native Coding Style (Best Practice)
+## :green_book: Coding Style (Best Practice)
 ◈ **Separate file** = <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_reactts.svg" alt="tsxicon" width="15" height="15"/> Screen file (index.tsx) / <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_typescriptdef.svg" alt="dtsicon" width="15" height="15"/> Interface file (types.d.ts) / <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_js.svg" alt="javascripticon" width="15" height="15"/> StyleSheet file (styles.js)</br>
 ◈ **camelCase** = variable name, function name, interface member, file name</br>
 ◈ **PascalCase** = class name, screen name, interface name, type name, sub folder name (last folder)</br>
