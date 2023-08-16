@@ -54,6 +54,21 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 | <p align="center">Words</p> | <p align="center">10words : **154** WPM</p> | <p align="center">25words : **111** WPM</p> | <p align="center">50words : **95** WPM</p> | <p align="center">100words : **89** WPM</p> |
 | <p align="center">Time</p> | <p align="center">15seconds : **117** WPM</p> | <p align="center">30seconds : **88** WPM</p> | <p align="center">60seconds : **91** WPM</p> | <p align="center">120seconds : **77** WPM</p> |
 
+## :pushpin: My Project (Youtube Link)
+- <code><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="JavaScript" alt="javascript" width="20" height="20"/></code> [NextJS + ThreeJS Sample Website (Parallax + TailwindCSS)](https://youtu.be/fbOYI1geaS0)
+- <code><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="JavaScript" alt="javascript" width="20" height="20"/></code> [NEARCats Rarity Score Checker BOT (Discord Bot)](https://youtu.be/TkvxI92YtEA)
+- <code><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="JavaScript" alt="javascript" width="20" height="20"/></code> [BOT Tracking Paras (Discord Bot)](https://youtu.be/PgJ0ycWsTc0)
+- <code><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" title="C#" alt="cshape" width="20" height="20"/></code> [Automate Batch - Bitmap Drawing Image (WindowForm)](https://youtu.be/FqSSo0cgpP0)
+- <code><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python" alt="python" width="20" height="20"/></code> [NEARCats Mass shill NFT (Discord Bot)](https://youtu.be/QgaXg1s0E1g)
+- <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/godot_103035.png" title="GDScript" alt="gdscript" width="20" height="20"/></code> [Isekai Survivors Sample Game (Godot Engine 4)](https://youtu.be/Yk8e6WyC5ks)
+- <code><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" title="Adobe Photoshop" alt="adobephotoshop" width="20" height="20"/></code> [NEARCats create Banner (Photoshop)](https://youtu.be/eXH003AEF_s)
+- <code><img src="https://upload.wikimedia.org/wikipedia/en/b/be/Aseprite_logo_128.png" title="Aseprite" alt="aseprite" width="20" height="20"/></code> [NEARCats Draw "Fusion Gate" (Aseprite)](https://youtu.be/HultA29lTq0)
+- [3D Modeling - Cheytac M200 for Minecraft Model (Cubik Studio)](https://youtu.be/GP5iRsuInuo)
+- [3D Modeling - Radiant Sword for Minecraft Model (Cubik Studio)](https://youtu.be/eu2fs6B1SAo)
+- [Generative Art - How NEARCats to generate 999 NFTs in 1 Minute (HashLips)](https://youtu.be/wh3yiPV--4I)
+- [NFT Project - NEARCats Company Collection (Paras.id)](https://paras.id/collection/nearcats-company-by-nearcatsnftnear)
+- [Gitbook - NEARCats Company (Whitepaper)](https://nearcatscompany.gitbook.io/whitepaper)
+
 ## :blue_book: Coding Styles & Best Practice
 - :globe_with_meridians: [React Native (TypeScript)](./codingStyles/ReactNative/README.md)
 
