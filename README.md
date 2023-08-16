@@ -53,6 +53,15 @@ I have 1 year of experience working as a Programmer, 4 years as a Graphic Design
 | IDE                   | <code><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Visual Studio Code (VSCode)" alt="vscode" width="40" height="40"/></a></code> <code><a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" title="Visual Studio" alt="visualstudio" width="40" height="40"/></a></code> <code><a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="PyCharm" alt="pycharm" width="40" height="40"/></a></code> <code><a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" title="Sublime Text" alt="sublimetext" width="40" height="40"/></a></code> <code><a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" title="Notepad++" alt="notepad++" width="40" height="40"/></a></code> |
 | Game Engine           | <code><a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" title="Godot Engine" alt="godotengine" width="40" height="40"/></a></code> |
 
+## :mortar_board: Soft Skills
+
+|                   | Skills                 |                   |
+|-------------------|------------------------|-------------------|
+| Time Management   | Adaptability           | Creativity        |
+| Leadership        | Problem-Solving        | Communication     |
+| Teamwork          | Emotional Intelligence | Critical Thinking |
+| Positive Attitude | Presentation Skills    |                   |
+
 ## :earth_asia: Language Skills
 <p>
 ◆◇◇◇ Beginner</br>
