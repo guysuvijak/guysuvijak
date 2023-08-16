@@ -14,44 +14,6 @@ I have 1 year of experience working as a Programmer, 4 years as a Graphic Design
 * 🧠  I'm learning NextJS + Tailwind CSS
 * ☕️  I turn **Coffee** into **Code**
 
-<p align="center"><code>View on Horizontal
- ╭----------------------------------------------------------------------╮ </br>
- ├---██████---██----██---██----██---██---███████----██████----██----██--┤ </br>
- ├--██--------██----██---██----██---██--------██---██----██---██--██----┤ </br>
- ├--███████---██----██---██----██---██--------██---████████---████------┤ </br>
- ├-------██---██----██----██--██----██---██---██---██----██---██--██----┤ </br>
- ├--██████-----██████-------██------██----█████----██----██---██----██--┤ </br>
- ╰----------------------------------------------------------------------╯ </br>
-</code></p>
-
-## :link: Social Media & Contact
-> <p>Facebook is my primary communication channel.</p>
-<p align="left">
-<a href="https://fb.com/guy.suvijak" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" title="Facebook : guy.suvijak" alt="facebookaccount" height="40" width="40" /></a> <a href="https://www.youtube.com/c/meteorviix" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/640px-YouTube_full-color_icon_%282017%29.svg.png" title="Discord : meteorviix" alt="discordaccount" height="30" width="40" /></a> <a href="https://discord.com/users/220231582722555924" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="Discord : meteorviix" height="40" width="40" /></a> <a href="guy.suvijak@hotmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018–present%29.svg" alt="Email : guy.suvijak@hotmail.com" height="40" width="40" /></a>
-</p>
-
-## :keyboard: Typing Speed (Best Record :trophy:)
-Testing at : <a href="https://monkeytype.com/profile/MeteorVIIx" target="_blank" rel="noreferrer">monkeytype.com (Profile Link)</a></br>
-Keyboard : <code>Royal Kludge RK61 Plus</code>
-
-| Type | Level 1 | Level 2 | Level 3 | Level 4 |
-|------|---------|---------|---------|---------|
-| <p align="center">Words</p> | <p align="center">10words : 154 WPM</br>(correct 100%)</p> | <p align="center">25words : 111 WPM</br>(correct 97%)</p> | <p align="center">50words : 95 WPM</br>(correct 97%)</p> | <p align="center">100words : 89 WPM</br>(correct 97%)</p> |
-| <p align="center">Time</p> | <p align="center">15seconds : 117 WPM</br>(correct 100%)</p> | <p align="center">30seconds : 88 WPM</br>(correct 97%)</p> | <p align="center">60seconds : 91 WPM</br>(correct 98%)</p> | <p align="center">120seconds : 77 WPM</br>(correct 96%)</p> |
-
-## :earth_asia: Language Skills
-<p>
-◆◇◇◇ Beginner</br>
-◆◆◇◇ Fair</br>
-◆◆◆◇ Good</br>
-◆◆◆◆ Native
-</p>
-
-| Languages | Reading | Writing | Listening | Speaking |
-|-----------|---------|---------|-----------|----------|
-| <img src="https://static.wikia.nocookie.net/duolingo/images/2/25/Flag-th.svg/revision/latest?cb=20160603170720" alt="thai" width="30" height="20"/> Thai (TH)    | <p align="center">◆◆◆◆</p>   | <p align="center">◆◆◆◆</p>  | <p align="center">◆◆◆◆</p>    | <p align="center">◆◆◆◆</p>   |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg" alt="english" width="30" height="20"/> English (EN) | <p align="center">◆◆◆◇</p>   | <p align="center">◆◆◆◇</p>  | <p align="center">◆◇◇◇</p>    | <p align="center">◆◆◇◇</p>   |
-
 ## :muscle: Hard Skills
 
 | Skills | Techs & Tools |
@@ -67,6 +29,34 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 | Graphic Design        | <code><a href="https://www.adobe.com/th_en/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" title="Adobe Photoshop" alt="adobephotoshop" width="40" height="40"/></a></code> <code><a href="https://store.steampowered.com/app/689790/VEGAS_Pro_15_Edit_Steam_Edition/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" title="Vegas Pro 15" alt="vegaspro15" width="40" height="40"/></a></code> <code><a href="https://store.steampowered.com/app/431730/Aseprite/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/b/be/Aseprite_logo_128.png" title="Aseprite" alt="aseprite" width="40" height="40"/></a></code> <code><a href="https://store.steampowered.com/app/365670/Blender/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" title="Blender" alt="blender" width="40" height="40"/></a></code> <code><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Adobe Figma" alt="adobefigma" width="40" height="40"/></a></code> |
 | IDE                   | <code><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Visual Studio Code (VSCode)" alt="vscode" width="40" height="40"/></a></code> <code><a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" title="Visual Studio" alt="visualstudio" width="40" height="40"/></a></code> <code><a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="PyCharm" alt="pycharm" width="40" height="40"/></a></code> <code><a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" title="Sublime Text" alt="sublimetext" width="40" height="40"/></a></code> <code><a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" title="Notepad++" alt="notepad++" width="40" height="40"/></a></code> |
 | Game Engine           | <code><a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" title="Godot Engine" alt="godotengine" width="40" height="40"/></a></code> |
+
+## :earth_asia: Language Skills
+<p>
+◆◇◇◇ Beginner</br>
+◆◆◇◇ Fair</br>
+◆◆◆◇ Good</br>
+◆◆◆◆ Native
+</p>
+
+| Languages | Reading | Writing | Listening | Speaking |
+|-----------|---------|---------|-----------|----------|
+| <img src="https://static.wikia.nocookie.net/duolingo/images/2/25/Flag-th.svg/revision/latest?cb=20160603170720" alt="thai" width="30" height="20"/> Thai (TH)    | <p align="center">Native</p>   | <p align="center">Native</p>  | <p align="center">Native</p>    | <p align="center">Native</p>   |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg" alt="english" width="30" height="20"/> English (EN) | <p align="center">Good</p>   | <p align="center">Good</p>  | <p align="center">Beginner</p>    | <p align="center">Fair</p>   |
+
+## :keyboard: Typing Speed (Best Record :trophy:)
+Testing at : <a href="https://monkeytype.com/profile/MeteorVIIx" target="_blank" rel="noreferrer">monkeytype.com (Profile Link)</a></br>
+Keyboard : <code>Royal Kludge RK61 Plus</code>
+
+| Type | Level 1 | Level 2 | Level 3 | Level 4 |
+|------|---------|---------|---------|---------|
+| <p align="center">Words</p> | <p align="center">10words : 154 WPM</br>(correct 100%)</p> | <p align="center">25words : 111 WPM</br>(correct 97%)</p> | <p align="center">50words : 95 WPM</br>(correct 97%)</p> | <p align="center">100words : 89 WPM</br>(correct 97%)</p> |
+| <p align="center">Time</p> | <p align="center">15seconds : 117 WPM</br>(correct 100%)</p> | <p align="center">30seconds : 88 WPM</br>(correct 97%)</p> | <p align="center">60seconds : 91 WPM</br>(correct 98%)</p> | <p align="center">120seconds : 77 WPM</br>(correct 96%)</p> |
+
+## :link: Social Media & Contact Me
+> <p>Facebook is my primary communication channel.</p>
+<p align="left">
+<a href="https://fb.com/guy.suvijak" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" title="Facebook : guy.suvijak" alt="facebookaccount" height="40" width="40" /></a> <a href="https://www.youtube.com/c/meteorviix" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/640px-YouTube_full-color_icon_%282017%29.svg.png" title="Discord : meteorviix" alt="discordaccount" height="30" width="40" /></a> <a href="https://discord.com/users/220231582722555924" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="Discord : meteorviix" height="40" width="40" /></a> <a href="guy.suvijak@hotmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018–present%29.svg" alt="Email : guy.suvijak@hotmail.com" height="40" width="40" /></a>
+</p>
 
 ## :globe_with_meridians: React Native Coding Style (TypeScript)
 ◈ **Separate file** = <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_reactts.svg" alt="tsxicon" width="15" height="15"/> Screen file (index.tsx) / <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_typescriptdef.svg" alt="dtsicon" width="15" height="15"/> Type file (types.d.ts) / <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_js.svg" alt="javascripticon" width="15" height="15"/> StyleSheet file (styles.js)</br>
