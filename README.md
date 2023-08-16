@@ -55,7 +55,7 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 | <p align="center">Time</p> | <p align="center">15seconds : **117** WPM</p> | <p align="center">30seconds : **88** WPM</p> | <p align="center">60seconds : **91** WPM</p> | <p align="center">120seconds : **77** WPM</p> |
 
 ## :blue_book: Coding Styles & Best Practice
-- :globe_with_meridians: [React Native (TypeScript)](./codeingStyles/ReactNative/README.md)
+- :globe_with_meridians: [React Native (TypeScript)](./codingStyles/ReactNative/README.md)
 
 ## :link: Social Media & Contact Me
 > <p>Facebook is my primary communication channel.</p>
