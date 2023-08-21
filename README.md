@@ -28,11 +28,11 @@ I have 1 year of experience working as a Programmer, 4 years as a Graphic Design
 | <p align="center"><code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/godot_103035.png" title="GDScript" alt="gdscript" width="20" height="20"/></code></p> | [Isekai Survivors Sample Game (Godot Engine 4)](https://youtu.be/Yk8e6WyC5ks) |
 | <p align="center"><code><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" title="Adobe Photoshop" alt="adobephotoshop" width="20" height="20"/></code></p> | [NEARCats create Banner](https://youtu.be/eXH003AEF_s) |
 | <p align="center"><code><img src="https://upload.wikimedia.org/wikipedia/en/b/be/Aseprite_logo_128.png" title="Aseprite" alt="aseprite" width="20" height="20"/></code></p> | [NEARCats Draw "Fusion Gate"](https://youtu.be/HultA29lTq0) |
-| | [3D Modeling - Cheytac M200 for Minecraft Model (Cubik Studio)](https://youtu.be/GP5iRsuInuo) |
-| | [3D Modeling - Radiant Sword for Minecraft Model (Cubik Studio)](https://youtu.be/eu2fs6B1SAo) |
-| | [Generative Art - How NEARCats to generate 999 NFTs in 1 Minute (HashLips)](https://youtu.be/wh3yiPV--4I) |
-| | [NFT Project - NEARCats Company Collection (Paras.id)](https://paras.id/collection/nearcats-company-by-nearcatsnftnear) |
-| | [Gitbook - NEARCats Company (Whitepaper)](https://nearcatscompany.gitbook.io/whitepaper) |
+| <p align="center"><code><img src="https://github.com/guysuvijak/guysuvijak/assets/114898370/9158c1b0-54df-45a3-aa5c-8585e4ec246f" title="Cubik Studio" alt="cubikstudio" width="20" height="20"/></code></p> | [3D Modeling - Cheytac M200 for Minecraft Model (Cubik Studio)](https://youtu.be/GP5iRsuInuo) |
+| <p align="center"><code><img src="https://github.com/guysuvijak/guysuvijak/assets/114898370/9158c1b0-54df-45a3-aa5c-8585e4ec246f" title="Cubik Studio" alt="cubikstudio" width="20" height="20"/></code></p> | [3D Modeling - Radiant Sword for Minecraft Model (Cubik Studio)](https://youtu.be/eu2fs6B1SAo) |
+| <p align="center"><code><img src="https://github.com/guysuvijak/guysuvijak/assets/114898370/c34ff8ea-0634-4f6f-aa60-f03c6368fd57" title="NEARCats" alt="nearcats" width="20" height="20"/></code></p> | [Generative Art - How NEARCats to generate 999 NFTs in 1 Minute (HashLips)](https://youtu.be/wh3yiPV--4I) |
+| <p align="center"><code><img src="https://github.com/guysuvijak/guysuvijak/assets/114898370/c34ff8ea-0634-4f6f-aa60-f03c6368fd57" title="NEARCats" alt="nearcats" width="20" height="20"/></code></p> | [NFT Project - NEARCats Company Collection (Paras.id)](https://paras.id/collection/nearcats-company-by-nearcatsnftnear) |
+| <p align="center"><code><img src="https://d33wubrfki0l68.cloudfront.net/42cc9dc1dd30eee1bd3438e853a8cf0f82165f0c/ea050/assets/images/tool-icons/gitbook.png" title="Gitbook" alt="gitbook" width="20" height="20"/></code></p> | [Gitbook - NEARCats Company (Whitepaper)](https://nearcatscompany.gitbook.io/whitepaper) |
 
 ## :blue_book: Coding Styles & Best Practice
 - :globe_with_meridians: [React Native (TypeScript)](./codingStyles/ReactNative/README.md)
