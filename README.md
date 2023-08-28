@@ -83,7 +83,7 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 
 | Type | Level 1 | Level 2 | Level 3 | Level 4 |
 |------|---------|---------|---------|---------|
-| <p align="center">Words</p> | <p align="center">10words : **154** WPM</p> | <p align="center">25words : **111** WPM</p> | <p align="center">50words : **103** WPM</p> | <p align="center">100words : **89** WPM</p> |
+| <p align="center">Words</p> | <p align="center">10words : **154** WPM</p> | <p align="center">25words : **111** WPM</p> | <p align="center">50words : **103** WPM</p> | <p align="center">100words : **97** WPM</p> |
 | <p align="center">Time</p> | <p align="center">15seconds : **117** WPM</p> | <p align="center">30seconds : **100** WPM</p> | <p align="center">60seconds : **92** WPM</p> | <p align="center">120seconds : **94** WPM</p> |
 
 ## :link: Social Media & Contact Me
