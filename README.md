@@ -83,7 +83,7 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 
 | Type | Level 1 | Level 2 | Level 3 | Level 4 |
 |------|---------|---------|---------|---------|
-| <p align="center">Words</p> | <p align="center">10words : **154** WPM</p> | <p align="center">25words : **111** WPM</p> | <p align="center">50words : **103** WPM</p> | <p align="center">100words : **97** WPM</p> |
+| <p align="center">Words</p> | <p align="center">10words : **154** WPM</p> | <p align="center">25words : **117** WPM</p> | <p align="center">50words : **103** WPM</p> | <p align="center">100words : **97** WPM</p> |
 | <p align="center">Time</p> | <p align="center">15seconds : **117** WPM</p> | <p align="center">30seconds : **100** WPM</p> | <p align="center">60seconds : **99** WPM</p> | <p align="center">120seconds : **94** WPM</p> |
 
 ## :link: Social Media & Contact Me
@@ -92,4 +92,4 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 <a href="https://fb.com/guy.suvijak" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" title="Facebook : guy.suvijak" alt="facebookaccount" height="40" width="40" /></a> <a href="https://www.youtube.com/c/meteorviix" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/640px-YouTube_full-color_icon_%282017%29.svg.png" title="Discord : meteorviix" alt="discordaccount" height="30" width="40" /></a> <a href="https://discord.com/users/220231582722555924" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="Discord : meteorviix" height="40" width="40" /></a> <a href="guy.suvijak@hotmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018–present%29.svg" alt="Email : guy.suvijak@hotmail.com" height="40" width="40" /></a>
 </p>
 <p align="center"><img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" alt="snakegrid" /></p>
-<p align="center">last updated : 28/08/2023 - 10:48 ⏰</p>
+<p align="center">last updated : 07/09/2023 - 08:19 ⏰</p>
