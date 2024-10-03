@@ -9,10 +9,9 @@ I am currently a full-stack mobile developer (React Native) at <a href="https://
 I have 3 year of experience working as a Programmer, 4 years as a Graphic Designer, and another 1 year in various other positions.</br>
 
 * 🌍  I'm based in Sathon, Bangkok, Thailand
-* ✉️  You can contact me at <a href="mailto:guy.suvijak@hotmail.com" target="_blank" rel="noreferrer">guy.suvijak@hotmail.com</a> or <a href="https://fb.com/guy.suvijak" target="_blank" rel="noreferrer">Facebook (Suvijak Nopparatcharoensuk)</a>
+* ✉️  You can contact me at <a href="mailto:guy.suvijak@hotmail.com" target="_blank" rel="noreferrer">guy.suvijak@hotmail.com</a> or <a href="https://fb.com/guy.suvijak" target="_blank" rel="noreferrer">Facebook (Suvijak Nopparatcharoensuk)</a> or <a href="https://discord.com/users/220231582722555924" target="_blank" rel="noreferrer">Discord (meteorviix)</a>
 * 🚀  I'm currently solo working on <a href="http://play.google.com/store/apps/details?id=com.tgsgmobileapp&hl=en_US" target="_blank" rel="noreferrer">TGSG (Internal Application)</a>
-* 🧠  I'm learning Frontend (NextJS + Tailwind CSS + Responsive + framer-motion)
-* 🧠  I'm learning Generative AI (Stable Diffusion A1111 + TorToiSe TTS)
+* 🧠  I'm learning Create Game, Godot 4, Blockchain, Solidity
 * ☕️  I turn **Coffee** into **Code**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guysuvijak&layout=compact)
@@ -88,9 +87,18 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 | <p align="center">Words</p> | <p align="center">10words : **154** WPM</p> | <p align="center">25words : **118** WPM</p> | <p align="center">50words : **103** WPM</p> | <p align="center">100words : **97** WPM</p> |
 | <p align="center">Time</p> | <p align="center">15seconds : **117** WPM</p> | <p align="center">30seconds : **100** WPM</p> | <p align="center">60seconds : **99** WPM</p> | <p align="center">120seconds : **94** WPM</p> |
 
+## 🎖️ My Contribution
+| Icon | Project | Description |
+|------|---------|-------------|
+| <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"><code><img src="https://avatars.githubusercontent.com/u/3853896" title="Aseprite" alt="aseprite" width="20" height="20"/></code></a> | <p align="center">Aseprite</p> | <p align="center">[Collaboration Translations Thai Language](https://github.com/aseprite/strings/blob/main/README.md)</p> |
+
 ## :link: Social Media & Contact Me
 > <p>Facebook is my primary communication channel.</p>
 <p align="left">
 <a href="https://fb.com/guy.suvijak" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" title="Facebook : guy.suvijak" alt="facebookaccount" height="40" width="40" /></a> <a href="https://www.youtube.com/c/meteorviix" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/640px-YouTube_full-color_icon_%282017%29.svg.png" title="Discord : meteorviix" alt="discordaccount" height="30" width="40" /></a> <a href="https://discord.com/users/220231582722555924" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="Discord : meteorviix" height="40" width="40" /></a> <a href="guy.suvijak@hotmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018–present%29.svg" alt="Email : guy.suvijak@hotmail.com" height="40" width="40" /></a>
-</p>
-<p align="center">last updated : 13/05/2024 - 08:25 ⏰</p>
+</p></br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guysuvijak&theme=dark)</br>
+![](https://github-readme-streak-stats.herokuapp.com?user=guysuvijak&theme=dark-smoky&hide_border=true&border_radius=10)</br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guysuvijak&theme=dark)
+<p align="center">last updated : 03/10/2024 - 09:26 ⏰ (GMT+7, Thailand)</p>
