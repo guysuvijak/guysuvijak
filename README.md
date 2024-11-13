@@ -41,7 +41,7 @@ I have 3 year of experience working as a Programmer, 4 years as a Graphic Design
 ## 🏆 Hackathon Participation
 | No. | Event | Year | Project | Video | Result |
 |-----|-------|------|---------|-------|--------|
-| <p align="center">1.</p> | [Solana Radar Global Hackathon](https://www.colosseum.org/radar) | 2024 | [StarryCiels (Game NFT)](https://arena.colosseum.org/projects/hackathon/starryciels) | [Presentation](https://www.youtube.com/watch?v=NouWF02qeSA) / [Gameplay](https://www.youtube.com/watch?v=1q5U5ULUcA8) | Judging Phase... |
+| <p align="center">1.</p> | [Solana Radar Global Hackathon](https://www.colosseum.org/radar) | 2024 | [StarryCiels (Game NFT)](https://arena.colosseum.org/projects/hackathon/starryciels) | [Presentation](https://www.youtube.com/watch?v=NouWF02qeSA) / [Gameplay](https://www.youtube.com/watch?v=1q5U5ULUcA8) | 💩 Not Winner |
 | <p align="center">2.</p> | [Thailand Local Radar Hackathon](https://earn.superteam.fun/listings/hackathon/thailand-local-radar-hackathon/) | 2024 | [StarryCiels (Game NFT)](https://arena.colosseum.org/projects/hackathon/starryciels) | [Presentation](https://www.youtube.com/watch?v=NouWF02qeSA) / [Gameplay](https://www.youtube.com/watch?v=1q5U5ULUcA8) | 🏅 Winner 4th ($50) |
 
 ## :pushpin: My Project
@@ -126,4 +126,4 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guysuvijak&theme=dark)</br>
 ![](https://github-readme-streak-stats.herokuapp.com?user=guysuvijak&theme=dark-smoky&hide_border=true&border_radius=10)</br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guysuvijak&theme=dark)
-<p align="center">last updated : 06/11/2024 - 09:55 ⏰ (GMT+7, Thailand)</p>
+<p align="center">last updated : 13/11/2024 - 08:36 ⏰ (GMT+7, Thailand)</p>
