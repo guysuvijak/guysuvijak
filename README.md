@@ -38,7 +38,7 @@ With over 8 years of combined experience across programming, graphic design, and
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guysuvijak&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guysuvijak)
 
 ## ⚔️ MMORPG Profile
 * 𝗡𝗮𝗺𝗲: 𝗠𝗲𝘁𝗲𝗼𝗿𝗩𝗜𝗜𝘅
