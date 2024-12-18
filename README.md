@@ -1,18 +1,42 @@
 <p align="center">
-<img src=https://github.com/guysuvijak/guysuvijak/assets/114898370/78ebe667-7bf2-40e4-8e4d-a646402427fb">
+  <img src="https://github.com/guysuvijak/guysuvijak/assets/114898370/78ebe667-7bf2-40e4-8e4d-a646402427fb" alt="Banner" />
 </p>
 
-Hi 👋 My name is [Suvijak Nopparatcharoensuk](https://github.com/guysuvijak)
-===========================================
+# Hi there! 👋 I'm [Suvijak Nopparatcharoensuk](https://github.com/guysuvijak)
 
-I am currently a full-stack mobile developer (React Native) at [Thai German Specialty Glass Co., Ltd.](https://www.tgsg.co.th/en)</br>
-I have 3 year of experience working as a Programmer, 4 years as a Graphic Designer, and another 1 year in various other positions.</br>
+I am a **Full-Stack Mobile Developer** specializing in **React Native** at [Thai German Specialty Glass Co., Ltd.](https://www.tgsg.co.th/en).  
+With over 8 years of combined experience across programming, graphic design, and multidisciplinary roles, I bring creativity and functionality together to build impactful solutions.
 
-* 🌍  I'm based in Sathon, Bangkok, Thailand
-* ✉️  You can contact me at mailto:guy.suvijak@hotmail.com or [Facebook (Suvijak Nopparatcharoensuk)](https://fb.com/guy.suvijak) or [Discord (meteorviix)](https://discord.com/users/220231582722555924)
-* 🚀  I'm currently solo working on [TGSG (Internal Application)](http://play.google.com/store/apps/details?id=com.tgsgmobileapp&hl=en_US)
-* 🧠  I'm learning Create Game, Godot 4, Blockchain, Solidity and Next.js 15
-* ☕️  I turn **Coffee** into **Code**
+---
+
+### 🛠️ Skills & Expertise
+- **Programming**: React Native, Next.js, TypeScript, TailwindCSS, Framer Motion, Zustand
+- **Design**: Graphic Design (4 years of experience), UI/UX Design
+- **Emerging Technologies**: Blockchain, Solidity, Game Development (Godot 4)
+
+---
+
+### 🌍 About Me
+- **Location**: Sathon, Bangkok, Thailand
+- **Experience**: 3 years as a Programmer, 4 years as a Graphic Designer, and 1 year in other creative roles
+- **Current Project**: [TGSG Internal Application](http://play.google.com/store/apps/details?id=com.tgsgmobileapp&hl=en_US)
+- **Learning**: Game Development, Pixel Art, Blockchain and Web Development with **Next.js 15**
+
+---
+
+### 📬 Get in Touch  
+- **Email**: [guy.suvijak@hotmail.com](mailto:guy.suvijak@hotmail.com)
+- **Facebook**: [Suvijak Nopparatcharoensuk](https://fb.com/guy.suvijak)
+- **Discord**: [meteorviix](https://discord.com/users/220231582722555924)
+
+---
+
+### 🚀 Fun Facts
+- I turn **☕ Coffee into Code** ☕
+- I love creating **modern, minimalist** designs with a focus on the "less is more" philosophy.
+- Security and efficiency are at the core of everything I build.
+
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guysuvijak&layout=compact)
 
@@ -128,4 +152,4 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guysuvijak&theme=dark)</br>
 ![](https://github-readme-streak-stats.herokuapp.com?user=guysuvijak&theme=dark-smoky&hide_border=true&border_radius=10)</br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guysuvijak&theme=dark)
-<p align="center">last updated : 16/12/2024 - 13:39 ⏰ (GMT+7, Thailand)</p>
+<p align="center">last updated : 18/12/2024 - 10:17 ⏰ (GMT+7, Thailand)</p>
