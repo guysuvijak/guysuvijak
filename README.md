@@ -14,6 +14,8 @@ With over 8 years of combined experience across programming, graphic design, and
 - **Design**: Graphic Design (4 years of experience), UI/UX Design
 - **Emerging Technologies**: Blockchain, Solidity, Game Development (Godot 4)
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,solidity,godot,mongodb,cs,threejs,py,nodejs,express,jest,sentry,visualstudio,vscode,pycharm,sublime,androidstudio,vercel,postman,prisma,redux,tauri,blender,cloudflare,css,discord,discordjs,dotnet,figma,firebase,gcp,github,gmail,html,ipfs,npm,opencv,ps,pnpm&perline=10)](https://skillicons.dev)
+
 ---
 
 ### 🌍 About Me
@@ -170,4 +172,4 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 </div>
 
 ###
-<p align="center">last updated : 29/01/2025 - 11:45 ⏰ (GMT+7, Thailand)</p>
+<p align="center">last updated : 31/01/2025 - 00:01 ⏰ (GMT+7, Thailand)</p>
