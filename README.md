@@ -22,7 +22,8 @@ With over 8 years of combined experience across programming, graphic design, and
 - **Location**: Sathon, Bangkok, Thailand
 - **Experience**: 3 years as a Programmer, 4 years as a Graphic Designer, and 1 year in other creative roles
 - **Current Project**: [TGSG Internal Application](http://play.google.com/store/apps/details?id=com.tgsgmobileapp&hl=en_US)
-- **Learning**: Game Development, Pixel Art, Blockchain and Web Development with **Next.js 15**
+- **Learning**: Game Development (Phaser.js), Pixel Art (Aseprite), Blockchain (Base, Solana) and Web Development with **Next.js 15**
+- **Interested**: Rust Lanaguage, Solidity Langauge, Microservices, AI/ML, Socket.io & Redis, Solana Blockchain
 
 ---
 
@@ -174,4 +175,4 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 </div>
 
 ###
-<p align="center">last updated : 18/02/2025 - 08:13 ⏰ (GMT+7, Thailand)</p>
+<p align="center">last updated : 24/02/2025 - 09:42 ⏰ (GMT+7, Thailand)</p>
