@@ -2,7 +2,7 @@
   <img src="https://github.com/guysuvijak/guysuvijak/assets/114898370/78ebe667-7bf2-40e4-8e4d-a646402427fb" alt="Banner" />
 </p>
 
-# Hi there! 👋 I'm [Suvijak Nopparatcharoensuk](https://github.com/guysuvijak)
+# Hi there! 👋 I'm [Suvijak Kasemwutthiphong](https://github.com/guysuvijak)
 
 I am a **Full-Stack Mobile Developer** specializing in **React Native** at [Thai German Specialty Glass Co., Ltd.](https://www.tgsg.co.th/en).  
 With over 8 years of combined experience across programming, graphic design, and multidisciplinary roles, I bring creativity and functionality together to build impactful solutions.
