@@ -73,6 +73,11 @@ With over 8 years of combined experience across programming, graphic design, and
 | <p align="center">1.</p> | [Solana Radar Global Hackathon](https://www.colosseum.org/radar) | 2024 | [StarryCiels (Game NFT)](https://arena.colosseum.org/projects/hackathon/starryciels) | [Presentation](https://www.youtube.com/watch?v=NouWF02qeSA) / [Gameplay](https://www.youtube.com/watch?v=1q5U5ULUcA8) | 💩 Not Winner |
 | <p align="center">2.</p> | [Thailand Local Radar Hackathon](https://earn.superteam.fun/listings/hackathon/thailand-local-radar-hackathon/) | 2024 | [StarryCiels (Game NFT)](https://arena.colosseum.org/projects/hackathon/starryciels) | [Presentation](https://www.youtube.com/watch?v=NouWF02qeSA) / [Gameplay](https://www.youtube.com/watch?v=1q5U5ULUcA8) | 🏅 Winner 4th ($50) |
 
+## 🏆 Gamejam Participation
+| No. | Event | Year | Project | Role | Result |
+|-----|-------|------|---------|-------|--------|
+| <p align="center">1.</p> | [Thailand Summer Jam 2025](https://itch.io/jam/thailand-summer-jam-2025) | 2025 | [Hotheads' Holiday](https://itch.io/jam/thailand-summer-jam-2025/rate/3502683) | Creative Director & Narrative Designer | 🟠 Voting Phase... |
+
 ## :pushpin: My Project
 | Category | Tech | Project Name |
 |----------|------|--------------|
@@ -175,4 +180,4 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 </div>
 
 ###
-<p align="center">last updated : 24/04/2025 - 09:15 ⏰ (GMT+7, Thailand)</p>
+<p align="center">last updated : 27/04/2025 - 22:19 ⏰ (GMT+7, Thailand)</p>
