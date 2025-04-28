@@ -43,23 +43,6 @@ With over 8 years of combined experience across programming, graphic design, and
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guysuvijak)
 
-## ⚔️ MMORPG Profile
-* 𝗡𝗮𝗺𝗲: 𝗠𝗲𝘁𝗲𝗼𝗿𝗩𝗜𝗜𝘅
-* 𝗟𝗲𝘃𝗲𝗹: 𝟵𝟵
-* 𝗖𝗹𝗮𝘀𝘀: 🔮 𝗪𝗶𝘇𝗮𝗿𝗱
-* 𝗚𝘂𝗶𝗹𝗱: 𝗥𝗘𝗚𝗔𝗟𝗜𝗔
-*
-* 🟥⬛⬛⬛⬛⬛⬛⬛⬛⬛ 𝗦𝗧𝗥 (+1)
-* 🟥⬛⬛⬛⬛⬛⬛⬛⬛⬛ 𝗔𝗚𝗜 (+1)
-* 🟥⬛⬛⬛⬛⬛⬛⬛⬛⬛ 𝗩𝗜𝗧 (+1)
-* 🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛ 𝗜𝗡𝗧 (+70)
-* 🟨🟨🟨🟨⬛⬛⬛⬛⬛⬛ 𝗗𝗘𝗫 (+40)
-* 🟧🟧⬛⬛⬛⬛⬛⬛⬛⬛ 𝗟𝗨𝗞 (+23)
-* Remaining Stats: **0/130**
-* 
-* Main Skill: 🔥Fireball / ☄️Meteor Shower / 🌌Blackhole
-* Passive Skill: 🧠Magic Amplification / 📘Double Cast / 💧Mana Booster
-
 ## 🎖️ My Contribution
 | Icon | Project | Description |
 |------|---------|-------------|
@@ -101,9 +84,6 @@ With over 8 years of combined experience across programming, graphic design, and
 | Graphic Design | <p align="center"><code><img src="https://github.com/guysuvijak/guysuvijak/assets/114898370/9158c1b0-54df-45a3-aa5c-8585e4ec246f" title="Cubik Studio" alt="cubikstudio" width="20" height="20"/></code></p> | <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/640px-YouTube_full-color_icon_%282017%29.svg.png" height="15" width="25" /> [3D Modeling - Radiant Sword for Minecraft Model (Cubik Studio)](https://youtu.be/eu2fs6B1SAo) |
 | NFT Collection | <p align="center"><code><img src="https://github.com/guysuvijak/guysuvijak/assets/114898370/c34ff8ea-0634-4f6f-aa60-f03c6368fd57" title="NEARCats" alt="nearcats" width="20" height="20"/></code></p> | [NFT Project - NEARCats Company Collection (Paras.id)](https://paras.id/collection/nearcats-company-by-nearcatsnftnear) |
 | Documentation | <p align="center"><code><img src="https://d33wubrfki0l68.cloudfront.net/42cc9dc1dd30eee1bd3438e853a8cf0f82165f0c/ea050/assets/images/tool-icons/gitbook.png" title="Gitbook" alt="gitbook" width="20" height="20"/></code></p> | [Gitbook - NEARCats Company (Whitepaper)](https://nearcatscompany.gitbook.io/whitepaper) |
-
-## :blue_book: Coding Styles & Best Practice
-- :globe_with_meridians: [React Native (TypeScript)](./codingStyles/ReactNative/README.md)
 
 ## :muscle: Hard Skills
 
@@ -180,4 +160,4 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 </div>
 
 ###
-<p align="center">last updated : 27/04/2025 - 22:19 ⏰ (GMT+7, Thailand)</p>
+<p align="center">last updated : 28/04/2025 - 08:36 ⏰ (GMT+7, Thailand)</p>
