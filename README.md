@@ -59,7 +59,7 @@ With over 8 years of combined experience across programming, graphic design, and
 ## 🏆 Gamejam Participation
 | No. | Event | Year | Project | Role | Result |
 |-----|-------|------|---------|-------|--------|
-| <p align="center">1.</p> | [Thailand Summer Jam 2025](https://itch.io/jam/thailand-summer-jam-2025) | 2025 | [Hotheads' Holiday](https://itch.io/jam/thailand-summer-jam-2025/rate/3502683) | Creative Director & Narrative Designer | 🍪 Rank 9/64 |
+| <p align="center">1.</p> | [Thailand Summer Jam 2025](https://itch.io/jam/thailand-summer-jam-2025) | 2025 | [Hotheads' Holiday](https://teezaboo.itch.io/hotheads-holiday) | Creative Director & Narrative Designer | 🍪 Rank 9/64 |
 
 ## :pushpin: My Project
 | Category | Tech | Project Name |
@@ -160,4 +160,4 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 </div>
 
 ###
-<p align="center">last updated : 02/05/2025 - 20:08 ⏰ (GMT+7, Thailand)</p>
+<p align="center">last updated : 05/05/2025 - 08:07 ⏰ (GMT+7, Thailand)</p>
