@@ -38,6 +38,7 @@ With over 8 years of combined experience across programming, graphic design, and
 - I turn **☕ Coffee into Code** ☕
 - I love creating **modern, minimalist** designs with a focus on the "less is more" philosophy.
 - Security and efficiency are at the core of everything I build.
+- Join Discord with "NSFW" server tag [> Here <](https://discord.gg/2KrJJEHdJ6)
 
 ---
 
@@ -160,4 +161,4 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 </div>
 
 ###
-<p align="center">last updated : 05/05/2025 - 08:07 ⏰ (GMT+7, Thailand)</p>
+<p align="center">last updated : 08/05/2025 - 21:25 ⏰ (GMT+7, Thailand)</p>
