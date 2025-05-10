@@ -147,15 +147,17 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
   <a href="https://discord.com/users/220231582722555924" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord : meteorviix"  />
   </a>
+  <a href="mailto:guy.suvijak@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="guy.suvijak@hotmail.com"  />
+  </a>
 </div>
 </br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guysuvijak&theme=dark)</br>
 ![](https://github-readme-streak-stats.herokuapp.com?user=guysuvijak&theme=dark-smoky&hide_border=true&border_radius=10)</br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guysuvijak&theme=dark)</br>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=guysuvijak.guysuvijak&left_color=royalblue&right_color=darkblue"  />
 </div>
 
 ###
-<p align="center">last updated : 10/05/2025 - 21:51 ⏰ (GMT+7, Thailand)</p>
+<p align="center">last updated : 10/05/2025 - 21:53 ⏰ (GMT+7, Thailand)</p>
