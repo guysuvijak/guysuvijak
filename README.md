@@ -29,7 +29,7 @@ With over 8 years of combined experience across programming, graphic design, and
 
 ### 📬 Get in Touch  
 - **Email**: [guy.suvijak@hotmail.com](mailto:guy.suvijak@hotmail.com)
-- **Facebook**: [Suvijak Nopparatcharoensuk](https://fb.com/guy.suvijak)
+- **Facebook**: [Suvijak Kasemwutthiphong](https://fb.com/guy.suvijak)
 - **Discord**: [meteorviix](https://discord.com/users/220231582722555924)
 
 ---
@@ -160,4 +160,4 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 </div>
 
 ###
-<p align="center">last updated : 10/05/2025 - 21:53 ⏰ (GMT+7, Thailand)</p>
+<p align="center">last updated : 12/05/2025 - 20:56 ⏰ (GMT+7, Thailand)</p>
