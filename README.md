@@ -63,6 +63,7 @@ With over 8 years of combined experience across programming, graphic design, and
 | No. | Event | Year | Project | Role | Result |
 |-----|-------|------|---------|-------|--------|
 | <p align="center">1.</p> | [Thailand Summer Jam 2025](https://itch.io/jam/thailand-summer-jam-2025) | 2025 | [Hotheads' Holiday](https://teezaboo.itch.io/hotheads-holiday) | Creative Director & Narrative Designer | 🍪 Rank 9/64 |
+| <p align="center">1.</p> | [Onchain Game Jam (Bario Entertainment System)](https://itch.io/jam/onchain-game-jam) | 2025 | [Hotheads' Holiday](https://teezaboo.itch.io/hotheads-holiday) | Creative Director & Narrative Designer | ⏳ Judging phase... |
 
 ## :pushpin: My Project
 | Category | Tech | Project Name |
@@ -162,4 +163,4 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 </div>
 
 ###
-<p align="center">last updated : 17/05/2025 - 22:42 ⏰ (GMT+7, Thailand)</p>
+<p align="center">last updated : 21/05/2025 - 10:56 ⏰ (GMT+7, Thailand)</p>
