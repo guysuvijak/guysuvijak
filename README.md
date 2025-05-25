@@ -56,8 +56,8 @@ With over 8 years of combined experience across programming, graphic design, and
 | No. | Event | Year | Project | Video | Result |
 |-----|-------|------|---------|-------|--------|
 | <p align="center">1.</p> | [Solana Radar Global Hackathon](https://www.colosseum.org/radar) | 2024 | [StarryCiels (Game NFT)](https://arena.colosseum.org/projects/hackathon/starryciels) | [Presentation](https://www.youtube.com/watch?v=NouWF02qeSA) / [Gameplay](https://www.youtube.com/watch?v=1q5U5ULUcA8) | 💩 Not Winner |
-| <p align="center">2.</p> | [Thailand Local Radar Hackathon](https://earn.superteam.fun/listings/hackathon/thailand-local-radar-hackathon/) | 2024 | [StarryCiels (Game NFT)](https://arena.colosseum.org/projects/explore/starryciels) | [Presentation](https://www.youtube.com/watch?v=NouWF02qeSA) / [Gameplay](https://www.youtube.com/watch?v=1q5U5ULUcA8) | 🏅 Winner 4th ($50) |
-| <p align="center">3.</p> | [Thailand Local Breakout Hackathon](https://earn.superteam.fun/listing/breakout-hackathon-thailand-sidetrack/) | 2025 | [DigDUEL (Game NFT)](https://arena.colosseum.org/projects/explore/digduel) | [Presentation & Gameplay](https://www.youtube.com/watch?v=yuv7RvaRTkU) | ⏳ Judging phase... |
+| <p align="center">2.</p> | [Thailand Local Radar Hackathon](https://earn.superteam.fun/listing/thailand-local-radar-hackathon/) | 2024 | [StarryCiels (Game NFT)](https://arena.colosseum.org/projects/explore/starryciels) | [Presentation](https://www.youtube.com/watch?v=NouWF02qeSA) / [Gameplay](https://www.youtube.com/watch?v=1q5U5ULUcA8) | 🏅 Winner 4th ($50) |
+| <p align="center">3.</p> | [Thailand Local Breakout Hackathon](https://earn.superteam.fun/listing/breakout-hackathon-thailand-sidetrack/) | 2025 | [DigDUEL (Game NFT)](https://arena.colosseum.org/projects/explore/digduel) | [Presentation & Gameplay](https://www.youtube.com/watch?v=yuv7RvaRTkU) | 🥈 Winner 2nd ($250) |
 
 ## 🏆 Gamejam Participation
 | No. | Event | Year | Project | Role | Result |
@@ -166,4 +166,4 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 </div>
 
 ###
-<p align="center">last updated : 21/05/2025 - 22:44 ⏰ (GMT+7, Thailand)</p>
+<p align="center">last updated : 25/05/2025 - 23:03 ⏰ (GMT+7, Thailand)</p>
