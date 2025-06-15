@@ -31,7 +31,10 @@ With over 8 years of combined experience across programming, graphic design, and
 - **Email**: [guy.suvijak@hotmail.com](mailto:guy.suvijak@hotmail.com)
 - **Facebook**: [Suvijak Kasemwutthiphong](https://fb.com/guy.suvijak)
 - **Discord**: [meteorviix](https://discord.com/users/220231582722555924)
+- **X/Twitter**: [MeteorVIIx](https://x.com/MeteorVIIx)
+- **Bluesky**: [guysuvijak.bsky.social](https://bsky.app/profile/guysuvijak.bsky.social)
 - **Superteam**: [meteorviix](https://earn.superteam.fun/t/meteorviix)
+- **League of Legends**: MeteorVIIx#8933
 
 ---
 
@@ -166,4 +169,4 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 </div>
 
 ###
-<p align="center">last updated : 06/06/2025 - 22:03 ⏰ (GMT+7, Thailand)</p>
+<p align="center">last updated : 15/06/2025 - 10:07 ⏰ (GMT+7, Thailand)</p>
