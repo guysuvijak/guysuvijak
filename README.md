@@ -67,6 +67,7 @@ With over 8 years of combined experience across programming, graphic design, and
 |-----|-------|------|---------|-------|--------|
 | <p align="center">1.</p> | [Thailand Summer Jam 2025](https://itch.io/jam/thailand-summer-jam-2025) | 2025 | [Hotheads' Holiday](https://teezaboo.itch.io/hotheads-holiday) | Creative Director &<br/>Narrative Designer | 🍪 Rank 9/64 |
 | <p align="center">2.</p> | [Onchain Game Jam<br/>(Bario Entertainment System)](https://itch.io/jam/onchain-game-jam) | 2025 | [Hotheads' Holiday](https://teezaboo.itch.io/hotheads-holiday) | Creative Director &<br/>Narrative Designer | 🏆 Winner 1st ($3,000) |
+| <p align="center">3.</p> | [Garena Game Jame 2025](https://itch.io/jam/garena-game-jam-th-2025) | 2025 | [Froggy Bonk!](https://scopebreaker.itch.io/froggybonk) | Project Lead &<br/>Game Designer | 🥈 Winner 2nd ฿15,000) |
 
 ## :pushpin: My Project
 | Category | Tech | Project Name |
@@ -169,4 +170,4 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 </div>
 
 ###
-<p align="center">last updated : 15/06/2025 - 10:07 ⏰ (GMT+7, Thailand)</p>
+<p align="center">last updated : 23/06/2025 - 18:00 ⏰ (GMT+7, Thailand)</p>
