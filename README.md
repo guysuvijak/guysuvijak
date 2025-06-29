@@ -4,8 +4,8 @@
 
 # Hi there! 👋 I'm [Suvijak Kasemwutthiphong](https://github.com/guysuvijak)
 
-I am a **Full-Stack Mobile Developer** specializing in **React Native** at [Thai German Specialty Glass Co., Ltd.](https://www.tgsg.co.th/en).  
-With over 8 years of combined experience across programming, graphic design, and multidisciplinary roles, I bring creativity and functionality together to build impactful solutions.
+I am a **Full-Stack Software Engineer** specializing in **TypeScript** at Software House company.  
+With over 9 years of combined experience across programming, graphic design, and multidisciplinary roles, I bring creativity and functionality together to build impactful solutions.
 
 ---
 
@@ -170,4 +170,4 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 </div>
 
 ###
-<p align="center">last updated : 23/06/2025 - 18:00 ⏰ (GMT+7, Thailand)</p>
+<p align="center">last updated : 29/06/2025 - 17:01 ⏰ (GMT+7, Thailand)</p>
