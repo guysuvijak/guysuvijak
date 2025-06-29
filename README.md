@@ -20,8 +20,8 @@ With over 9 years of combined experience across programming, graphic design, and
 
 ### 🌍 About Me
 - **Location**: Sathon, Bangkok, Thailand
-- **Experience**: 3 years as a Programmer, 4 years as a Graphic Designer, and 1 year in other creative roles
-- **Current Project**: [TGSG Internal Application](http://play.google.com/store/apps/details?id=com.tgsgmobileapp&hl=en_US)
+- **Experience**: 4 years as a Programmer, 4 years as a Graphic Designer, and 1 year in other creative roles
+- **Current Project**: Secret Project 🥷
 - **Learning**: Game Development (Phaser.js), Pixel Art (Aseprite), Blockchain (Base, Solana) and Web Development with **Next.js 15**
 - **Interested**: Rust Lanaguage, Solidity Langauge, Microservices, AI/ML, Socket.io & Redis, Solana Blockchain, Prisma & PostgreSQL
 
