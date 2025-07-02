@@ -168,6 +168,9 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=guysuvijak.guysuvijak&left_color=royalblue&right_color=darkblue"  />
 </div>
+<div align="center">
+  <img src="https://wakatime.com/badge/user/1bd09a4a-b4b2-4950-ba2f-912fd3ae8bf2.svg" />
+</div>
 
 ###
-<p align="center">last updated : 01/07/2025 - 13:13 ⏰ (GMT+7, Thailand)</p>
+<p align="center">last updated : 02/07/2025 - 22:52 ⏰ (GMT+7, Thailand)</p>
