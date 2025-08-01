@@ -70,6 +70,7 @@ With over 9 years of combined experience across programming, graphic design, and
 | <p align="center">1.</p> | [Thailand Summer Jam 2025](https://itch.io/jam/thailand-summer-jam-2025) | 2025 | [Hotheads' Holiday](https://teezaboo.itch.io/hotheads-holiday) | Creative Director &<br/>Narrative Designer | 🍪 Rank 9/64 |
 | <p align="center">2.</p> | [Onchain Game Jam<br/>(Bario Entertainment System)](https://itch.io/jam/onchain-game-jam) | 2025 | [Hotheads' Holiday](https://teezaboo.itch.io/hotheads-holiday) | Creative Director &<br/>Narrative Designer | 🏆 Winner 1st ($3,000) |
 | <p align="center">3.</p> | [Garena Game Jame 2025](https://itch.io/jam/garena-game-jam-th-2025) | 2025 | [Froggy Bonk!](https://scopebreaker.itch.io/froggybonk) | Project Lead &<br/>Game Designer | 🥈 Winner 2nd (฿15,000) |
+| <p align="center">4.</p> | [BOSS BASH JAM 3](https://itch.io/jam/boss-bash-jam-3) | 2025 | [Froggy Bonk!](https://scopebreaker.itch.io/froggybonk) | Project Lead &<br/>Game Designer | 🏆 Winner 1st (No Prize) |
 
 ## 👾 Bug Bounty
 💰 Total Earned from Bug bounty: **$18**
@@ -181,4 +182,4 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 </div>
 
 ###
-<p align="center">last updated : 08/07/2025 - 11:55 ⏰ (GMT+7, Thailand)</p>
+<p align="center">last updated : 01/08/2025 - 15:59 ⏰ (GMT+7, Thailand)</p>
