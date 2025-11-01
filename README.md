@@ -79,6 +79,13 @@ With over 10 years of combined experience across programming, graphic design, an
 |-----|-------|------|--------|--------|
 | <p align="center">1.</p> | [AImpact (Bug Bounty Pool)](https://earn.superteam.fun/listing/aimpact-beta-challenge) | 2025 | I submitted unique bugs and met the reward criteria. | 💰 2 bugs ($18) |
 
+## 👾 Game Tester
+💰 Total Earned from Tester: **฿1,000**
+| No. | Game | Version | Report | Condition | Result |
+|-----|-------|------|--------|--------|--------|
+| <p align="center">1.</p> | [Northwind](https://store.steampowered.com/app/1476400/Northwind) | Beta Test | [Video](https://youtu.be/OtQGx4i-Qqs?si=IWXg_894Hwkg3NuN) | Play for fun & find bug | 💩 No Earning |
+| <p align="center">2.</p> | [Cats VS Cucumbers](https://apps.apple.com/us/app/cat-vs-cucumber/id6749935754) | Pre-Launch | [Report](https://docs.google.com/presentation/d/1hKtLRS-z4WPxfPwA2s6C0W_0ASEq_fDSfim2wn5HgyA/edit?usp=sharing) | Play until end-game Chapter 10-8 | 🏆 1st on Leaderboard (฿1,000) |
+
 ## :pushpin: My Project
 | Category | Tech | Project Name |
 |----------|------|--------------|
@@ -183,4 +190,4 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 </div>
 
 ###
-<p align="center">last updated : 30/10/2025 - 15:41 ⏰ (GMT+7, Thailand)</p>
+<p align="center">last updated : 01/11/2025 - 21:07 ⏰ (GMT+7, Thailand)</p>
