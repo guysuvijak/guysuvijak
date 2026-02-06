@@ -72,6 +72,8 @@ With over 10 years of combined experience across programming, graphic design, an
 | <p align="center">3.</p> | [Garena Game Jame 2025](https://itch.io/jam/garena-game-jam-th-2025) | 2025 | [Froggy Bonk!](https://scopebreaker.itch.io/froggybonk) | Project Lead &<br/>Game Designer | 🥈 Winner 2nd (฿15,000) |
 | <p align="center">4.</p> | [BOSS BASH JAM 3](https://itch.io/jam/boss-bash-jam-3) | 2025 | [Froggy Bonk!](https://scopebreaker.itch.io/froggybonk) | Project Lead &<br/>Game Designer | 🏆 Winner 1st (No Prize) |
 | <p align="center">5.</p> | [It's Alive! AI NPC Jam](https://itch.io/jam/its-alive-ai-npc) | 2025 | [Gentle or Brutal](https://teezaboo.itch.io/gentle-or-brutal) | Game Designer &<br/>Narrative Designer | 🏆 Winner 4th Awards ($500) |
+| <p align="center">5.</p> | [Mini Jam 203: Flow](https://itch.io/jam/mini-jam-203-flow) | 2026 | [Mask Idle Venture](https://meteorviix.itch.io/mask-idle-venture) | Solo Game Developer | 🍪 Rank 19/120 |
+| <p align="center">5.</p> | [Global Game Jam 2026<br/>(Game Dev Hub by TGA, GCA x TGS)](https://itch.io/jam/ggj26-game-dev-hub/rate/4248565) | 2026 | [Mask Idle Venture](https://meteorviix.itch.io/mask-idle-venture) | Solo Game Developer | Voting phase... |
 
 ## 👾 Bug Bounty
 💰 Total Earned from Bug bounty: **$18**
@@ -190,4 +192,4 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 </div>
 
 ###
-<p align="center">last updated : 01/11/2025 - 21:07 ⏰ (GMT+7, Thailand)</p>
+<p align="center">last updated : 06/02/2026 - 11:12 ⏰ (GMT+7, Thailand)</p>
