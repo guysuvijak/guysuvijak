@@ -22,7 +22,7 @@ With over 10 years of combined experience across programming, graphic design, an
 - **Location**: Sathon, Bangkok, Thailand
 - **Experience**: 5 years as a Programmer, 4 years as a Graphic Designer, and 1 year in other creative roles
 - **Current Project**: Secret Project 🥷
-- **Learning**: Game Development (Phaser.js), Pixel Art (Aseprite), Blockchain (Base, Solana) and Web Development with **Next.js 15**
+- **Learning**: Game Development (Phaser.js), Pixel Art (Aseprite), Blockchain (Base, Solana) and Web Development with **Next.js**
 - **Interested**: Rust Lanaguage, Solidity Langauge, Microservices, AI/ML, Socket.io & Redis, Solana Blockchain, Prisma & PostgreSQL
 
 ---
