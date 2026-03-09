@@ -42,7 +42,6 @@ With over 10 years of combined experience across programming, graphic design, an
 - I turn **☕ Coffee into Code** ☕
 - I love creating **modern, minimalist** designs with a focus on the "less is more" philosophy.
 - Security and efficiency are at the core of everything I build.
-- Join Discord with "NSFW" server tag [> Here <](https://discord.gg/2KrJJEHdJ6)
 
 ---
 
@@ -108,6 +107,7 @@ With over 10 years of combined experience across programming, graphic design, an
 | Backend | <p align="center"><code><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="JavaScript" alt="javascript" width="20" height="20"/></code></p> | <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/640px-YouTube_full-color_icon_%282017%29.svg.png" height="15" width="25" /> [BOT Tracking Paras (Discord Bot)](https://youtu.be/PgJ0ycWsTc0) |
 | Backend | <p align="center"><code><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python" alt="python" width="20" height="20"/></code></p> | <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/640px-YouTube_full-color_icon_%282017%29.svg.png" height="15" width="25" /> [NEARCats Mass shill NFT (Discord Bot)](https://youtu.be/QgaXg1s0E1g) |
 | Backend | <p align="center"><code><img src="https://github.com/guysuvijak/guysuvijak/assets/114898370/c34ff8ea-0634-4f6f-aa60-f03c6368fd57" title="NEARCats" alt="nearcats" width="20" height="20"/></code></p> | <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/640px-YouTube_full-color_icon_%282017%29.svg.png" height="15" width="25" /> [Generative Art - How NEARCats to generate 999 NFTs in 1 Minute (HashLips)](https://youtu.be/wh3yiPV--4I) |
+| Game Development | <p align="center"><code><img src="https://avatars.githubusercontent.com/u/54856938" title="Phaserjs" alt="phaserjs" width="20" height="20"/></code></p> | <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/640px-YouTube_full-color_icon_%282017%29.svg.png" height="15" width="25" /> [Mask Idle Venture (Phaser.js)](https://www.youtube.com/watch?v=4GPUSDREByk) |
 | Game Development | <p align="center"><code><img src="https://avatars.githubusercontent.com/u/6318500" title="GDScript" alt="gdscript" width="20" height="20"/></code></p> | <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/640px-YouTube_full-color_icon_%282017%29.svg.png" height="15" width="25" /> [Isekai Survivors Sample Game (Godot Engine 4)](https://youtu.be/Yk8e6WyC5ks) |
 | Graphic Design | <p align="center"><code><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" title="Adobe Photoshop" alt="adobephotoshop" width="20" height="20"/></code></p> | <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/640px-YouTube_full-color_icon_%282017%29.svg.png" height="15" width="25" /> [NEARCats create Banner](https://youtu.be/eXH003AEF_s) |
 | Graphic Design | <p align="center"><code><img src="https://avatars.githubusercontent.com/u/3853896" title="Aseprite" alt="aseprite" width="20" height="20"/></code></p> | <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/640px-YouTube_full-color_icon_%282017%29.svg.png" height="15" width="25" /> [NEARCats Draw "Fusion Gate"](https://youtu.be/HultA29lTq0) |
@@ -193,4 +193,4 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 </div>
 
 ###
-<p align="center">last updated : 22/02/2026 - 20:35 ⏰ (GMT+7, Thailand)</p>
+<p align="center">last updated : 09/03/2026 - 14:05 ⏰ (GMT+7, Thailand)</p>
