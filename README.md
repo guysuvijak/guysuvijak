@@ -34,7 +34,8 @@ With over 10 years of combined experience across programming, graphic design, an
 - **X/Twitter**: [MeteorVIIx](https://x.com/MeteorVIIx)
 - **Bluesky**: [guysuvijak.bsky.social](https://bsky.app/profile/guysuvijak.bsky.social)
 - **Superteam**: [meteorviix](https://earn.superteam.fun/t/meteorviix)
-- **League of Legends**: MeteorVIIx#8933
+- **League of Legends (Sv.SEA)**: MeteorVIIx#8933
+- **League of Legends (Sv.VN)**: Teb1#55555
 
 ---
 
@@ -191,4 +192,4 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 </div>
 
 ###
-<p align="center">last updated : 19/09/2026 - 16:36 ⏰ (GMT+7, Thailand)</p>
+<p align="center">last updated : 19/09/2026 - 16:40 ⏰ (GMT+7, Thailand)</p>
