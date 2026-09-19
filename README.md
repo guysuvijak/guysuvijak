@@ -29,7 +29,7 @@ With over 10 years of combined experience across programming, graphic design, an
 
 ### 📬 Get in Touch  
 - **Email**: [guy.suvijak@hotmail.com](mailto:guy.suvijak@hotmail.com)
-- **Facebook**: [Suvijak Kasemwutthiphong](https://fb.com/guy.suvijak)
+- **Facebook**: [Suvijak Kasemwutthiphong](https://fb.com/suvijak.kasem)
 - **Discord**: [meteorviix](https://discord.com/users/220231582722555924)
 - **X/Twitter**: [MeteorVIIx](https://x.com/MeteorVIIx)
 - **Bluesky**: [guysuvijak.bsky.social](https://bsky.app/profile/guysuvijak.bsky.social)
@@ -44,8 +44,6 @@ With over 10 years of combined experience across programming, graphic design, an
 - Security and efficiency are at the core of everything I build.
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guysuvijak)
 
 ## 🎖️ My Contribution
 | No | Icon | Project | Description |
@@ -168,8 +166,8 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 ## :link: Social Media & Contact Me
 > <p>Facebook & Discord is my primary communication channel.</p>
 <div align="left">
-  <a href="https://www.facebook.com/guy.suvijak" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook : guy.suvijak"  />
+  <a href="https://www.facebook.com/suvijak.kasem" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook : suvijak.kasem"  />
   </a>
   <a href="https://www.youtube.com/c/meteorviix" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Youtube: MeteorVIIx"  />
@@ -193,4 +191,4 @@ Keyboard : <code>Royal Kludge RK61 Plus</code>
 </div>
 
 ###
-<p align="center">last updated : 09/03/2026 - 14:12 ⏰ (GMT+7, Thailand)</p>
+<p align="center">last updated : 19/09/2026 - 16:36 ⏰ (GMT+7, Thailand)</p>
